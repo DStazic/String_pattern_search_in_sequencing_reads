@@ -1,0 +1,2 @@
+## String pattern search in sequencing reads 
+### search for pattern of >=10 nucleotides (any) followed by >=16 T nucleotides and >=10 nucleotides (any) in sequencing reads. For any match write T-tail length/start and end coordinate of T-tail/ length of downstream and upstream flanking sequences/sequence of read in csv file
